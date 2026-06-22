@@ -223,6 +223,7 @@ DynamicPortfolio/
 * Added database file for local setup
 ## Website Screenshots
 
+
 ### Home Section
 <img width="956" height="410" alt="Screenshot 2026-06-22 144519" src="https://github.com/user-attachments/assets/ddab65d9-cd73-4b55-b293-27c08812c488" />
 
@@ -254,6 +255,16 @@ DynamicPortfolio/
 <img width="959" height="427" alt="Screenshot 2026-06-22 144708" src="https://github.com/user-attachments/assets/79a75cf5-7f02-40df-8473-e9bfca7880bf" />
 <img width="950" height="412" alt="Screenshot 2026-06-22 144721" src="https://github.com/user-attachments/assets/3fbbe5fc-0713-4282-9c09-fc2b620b96be" />
 <img width="959" height="425" alt="Screenshot 2026-06-22 144728" src="https://github.com/user-attachments/assets/6ec45a51-fbd0-48eb-8903-52252443867f" />
+
+### Admin Panel
+<img width="959" height="420" alt="Screenshot 2026-06-22 151518" src="https://github.com/user-attachments/assets/7ee7d7a6-8d8d-4ecb-b1e3-f40fe77be221" />
+<img width="955" height="416" alt="Screenshot 2026-06-22 151527" src="https://github.com/user-attachments/assets/089df2b1-b450-4085-bb73-464b7d64288e" />
+<img width="959" height="408" alt="Screenshot 2026-06-22 151543" src="https://github.com/user-attachments/assets/0152dd92-f4c9-4b45-ba79-b48884d2ae32" />
+<img width="945" height="421" alt="Screenshot 2026-06-22 151551" src="https://github.com/user-attachments/assets/509ede0e-5258-4e7d-a978-0cf5e36a1ae4" />
+<img width="946" height="410" alt="Screenshot 2026-06-22 151558" src="https://github.com/user-attachments/assets/c8a78905-7427-4ec9-aae7-45825fa7cc15" />
+<img width="959" height="426" alt="Screenshot 2026-06-22 151605" src="https://github.com/user-attachments/assets/0dbc7b37-2dd2-4285-8d6c-69ec5191d2be" />
+
+
 
 ## Future Improvements
 
