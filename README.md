@@ -230,8 +230,7 @@ DynamicPortfolio/
 <img width="959" height="347" alt="Screenshot 2026-06-22 144533" src="https://github.com/user-attachments/assets/85021d78-cd5c-4dc1-979e-2426abe4bff5" />
 <img width="959" height="353" alt="Screenshot 2026-06-22 144541" src="https://github.com/user-attachments/assets/f4d41060-1c1c-40eb-8acc-2db7683d9e0a" />
 <img width="903" height="395" alt="Screenshot 2026-06-22 144550" src="https://github.com/user-attachments/assets/1d13208e-ea69-4fba-8ab4-def1f4128626" />
-<img width="958" height="410" alt="Screenshot 2026-06-22 144611" src="https://github.com/user-attachments/assets/31de3516-6c25-497b-a9d0-ea7c0c31a901" />
-<img width="959" height="362" alt="Screenshot 2026-06-22 144602" src="https://github.com/user-attachments/assets/22eccfd6-1e11-43df-a9cf-2a58fdb2ea58" />
+
 <img width="959" height="362" alt="Screenshot 2026-06-22 144602" src="https://github.com/user-attachments/assets/5d9d11e4-c008-4571-997b-a313f45a96fd" />
 <img width="958" height="410" alt="Screenshot 2026-06-22 144611" src="https://github.com/user-attachments/assets/6b50db4d-08dd-42a3-bd61-ecf307267949" />
 
@@ -241,7 +240,7 @@ DynamicPortfolio/
 ### Projects Section
 <img width="908" height="349" alt="Screenshot 2026-06-22 144618" src="https://github.com/user-attachments/assets/9cf33c25-5f3f-4ad1-a3b6-2876400e8c67" />
 <img width="925" height="353" alt="Screenshot 2026-06-22 144628" src="https://github.com/user-attachments/assets/46cce632-901c-40c6-b49b-7f76e28c55b7" />
-<img width="818" height="375" alt="Screenshot 2026-06-22 144636" src="https://github.com/user-attachments/assets/4dc6d8d2-27a6-482f-9fb5-1c58b40a114e" />
+
 <img width="932" height="397" alt="Screenshot 2026-06-22 144644" src="https://github.com/user-attachments/assets/a8be2048-78cf-4121-a425-278924d885df" />
 
 
