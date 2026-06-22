@@ -227,21 +227,34 @@ DynamicPortfolio/
 <img width="956" height="410" alt="Screenshot 2026-06-22 144519" src="https://github.com/user-attachments/assets/ddab65d9-cd73-4b55-b293-27c08812c488" />
 
 ### Skills Section
-<<img width="959" height="353" alt="Screenshot 2026-06-22 144541" src="https://github.com/user-attachments/assets/e1b1dba4-c547-4204-a568-bd8cc9f1948d" />
-<img width="903" height="395" alt="Screenshot 2026-06-22 144550" src="https://github.com/user-attachments/assets/b873a81f-4434-46ae-a592-e533f8e23196" />
-<img width="959" height="362" alt="Screenshot 2026-06-22 144602" src="https://github.com/user-attachments/assets/bc94c699-511c-4d6b-b629-9e8f892b11d3" />
-<img width="959" height="347" alt="Screenshot 2026-06-22 144533" src="https://github.com/user-attachments/assets/f9f13250-1a15-4748-9aa4-237cfa3d50be" />
+<img width="959" height="347" alt="Screenshot 2026-06-22 144533" src="https://github.com/user-attachments/assets/85021d78-cd5c-4dc1-979e-2426abe4bff5" />
+<img width="959" height="353" alt="Screenshot 2026-06-22 144541" src="https://github.com/user-attachments/assets/f4d41060-1c1c-40eb-8acc-2db7683d9e0a" />
+<img width="903" height="395" alt="Screenshot 2026-06-22 144550" src="https://github.com/user-attachments/assets/1d13208e-ea69-4fba-8ab4-def1f4128626" />
+<img width="958" height="410" alt="Screenshot 2026-06-22 144611" src="https://github.com/user-attachments/assets/31de3516-6c25-497b-a9d0-ea7c0c31a901" />
+<img width="959" height="362" alt="Screenshot 2026-06-22 144602" src="https://github.com/user-attachments/assets/22eccfd6-1e11-43df-a9cf-2a58fdb2ea58" />
+<img width="959" height="362" alt="Screenshot 2026-06-22 144602" src="https://github.com/user-attachments/assets/5d9d11e4-c008-4571-997b-a313f45a96fd" />
+<img width="958" height="410" alt="Screenshot 2026-06-22 144611" src="https://github.com/user-attachments/assets/6b50db4d-08dd-42a3-bd61-ecf307267949" />
+
 
 
 
 ### Projects Section
-![Projects Section](screenshots/projects.png)
+<img width="908" height="349" alt="Screenshot 2026-06-22 144618" src="https://github.com/user-attachments/assets/9cf33c25-5f3f-4ad1-a3b6-2876400e8c67" />
+<img width="925" height="353" alt="Screenshot 2026-06-22 144628" src="https://github.com/user-attachments/assets/46cce632-901c-40c6-b49b-7f76e28c55b7" />
+<img width="818" height="375" alt="Screenshot 2026-06-22 144636" src="https://github.com/user-attachments/assets/4dc6d8d2-27a6-482f-9fb5-1c58b40a114e" />
+<img width="932" height="397" alt="Screenshot 2026-06-22 144644" src="https://github.com/user-attachments/assets/a8be2048-78cf-4121-a425-278924d885df" />
+
 
 ### Education Section
-![Education Section](screenshots/education.png)
+
+<img width="827" height="394" alt="Screenshot 2026-06-22 144654" src="https://github.com/user-attachments/assets/44c71e05-5e67-46d3-b6a4-335b337b8bea" />
+<img width="548" height="279" alt="Screenshot 2026-06-22 144700" src="https://github.com/user-attachments/assets/c6185851-f65e-428a-9e45-e807abaca238" />
+
 
 ### Contact Section
-![Contact Section](screenshots/contact.png)
+<img width="959" height="427" alt="Screenshot 2026-06-22 144708" src="https://github.com/user-attachments/assets/79a75cf5-7f02-40df-8473-e9bfca7880bf" />
+<img width="950" height="412" alt="Screenshot 2026-06-22 144721" src="https://github.com/user-attachments/assets/3fbbe5fc-0713-4282-9c09-fc2b620b96be" />
+<img width="959" height="425" alt="Screenshot 2026-06-22 144728" src="https://github.com/user-attachments/assets/6ec45a51-fbd0-48eb-8903-52252443867f" />
 
 ## Future Improvements
 
