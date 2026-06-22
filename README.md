@@ -263,6 +263,7 @@ DynamicPortfolio/
 * Improve mobile responsiveness
 * Deploy the portfolio online
 
-##Author
-#Sanzida Moin Tithi
+## Author
+
+Sanzida Moin Tithi
 
