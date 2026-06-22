@@ -221,6 +221,27 @@ DynamicPortfolio/
 * Improved UI design, spacing, colors, and readability
 * Organized project-related images and assets
 * Added database file for local setup
+## Website Screenshots
+
+### Home Section
+<img width="956" height="410" alt="Screenshot 2026-06-22 144519" src="https://github.com/user-attachments/assets/ddab65d9-cd73-4b55-b293-27c08812c488" />
+
+### Skills Section
+<<img width="959" height="353" alt="Screenshot 2026-06-22 144541" src="https://github.com/user-attachments/assets/e1b1dba4-c547-4204-a568-bd8cc9f1948d" />
+<img width="903" height="395" alt="Screenshot 2026-06-22 144550" src="https://github.com/user-attachments/assets/b873a81f-4434-46ae-a592-e533f8e23196" />
+<img width="959" height="362" alt="Screenshot 2026-06-22 144602" src="https://github.com/user-attachments/assets/bc94c699-511c-4d6b-b629-9e8f892b11d3" />
+<img width="959" height="347" alt="Screenshot 2026-06-22 144533" src="https://github.com/user-attachments/assets/f9f13250-1a15-4748-9aa4-237cfa3d50be" />
+
+
+
+### Projects Section
+![Projects Section](screenshots/projects.png)
+
+### Education Section
+![Education Section](screenshots/education.png)
+
+### Contact Section
+![Contact Section](screenshots/contact.png)
 
 ## Future Improvements
 
@@ -230,6 +251,6 @@ DynamicPortfolio/
 * Improve mobile responsiveness
 * Deploy the portfolio online
 
-Author
-Sanzida Moin Tithi
+##Author
+#Sanzida Moin Tithi
 
